@@ -13,4 +13,4 @@ Assignment Solutions for Data Structures Lab - Semester III
 11. Graph Traversal
 12. Graph Shortest Path Algorithm(Dijkstra)
 13. Hashing
-14. Mini_Project
+14. Mini Project - Water distribution using Graphs
